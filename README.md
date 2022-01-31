@@ -1,0 +1,2 @@
+# CMPT415
+This is my final project for CMPT415. Majority of the work is based on analyzing [MARS](https://github.com/snap-stanford/mars) and [ItClust](https://github.com/jianhuupenn/ItClust). I set up 2 environments based on their instructions to be able to run the 2 py files. To run the code, the following 2 data sources are also needed: [Tabula Muris Senis](https://tabula-muris-senis.ds.czbiohub.org/) and [PanglaoDB](https://panglaodb.se/). Be aware of how the file directories are read when running the code.
